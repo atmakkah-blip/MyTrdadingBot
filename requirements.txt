@@ -2,6 +2,7 @@ streamlit
 pandas
 pandas_ta
 ccxt
-scikit-learn
-plotly
 requests
+numpy
+plotly
+scikit-learn
